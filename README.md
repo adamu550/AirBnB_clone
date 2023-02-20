@@ -280,4 +280,4 @@ $ python3 unittest -m tests/test_console.py
 ```
 
 ## Authors :black_nib:
-* **Nnennia Atuanya** <[adamu550](https://github.com/adamu550)>
+* **adam babangida** <[adamu550](https://github.com/adamu550)>
